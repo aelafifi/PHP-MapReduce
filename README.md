@@ -148,7 +148,7 @@ Array
 - [ ] Add more examples
 - [ ] Map DISTINCT
 
-## License and Acknowledgements
+## License
 
 Copyright 2017 Ahmed S. El-Afifi <ahmed.s.elafifi@gmail.com>
 
